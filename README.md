@@ -21,6 +21,7 @@ For tutorials on how to use it with a specific provider, see the [respective tut
 ## Supported brokers
 
 - [IBKR](https://www.interactivebrokers.com/en/home.php) ([Tutorial](./tutorials/IBKR.md))
+- [Charles Schwab Equity Award Center](https://eac.schwab.com/) ([Tutorial](./tutorials/Charles%20Schwab%20EAC.md))
 - [Morgan Stanley At Work](https://atwork.morganstanley.com/) ([Tutorial](./tutorials/Morgan%20Stanley%20At%20Work.md))
 
 ## Contributing
